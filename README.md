@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### I am İpek and I am a third year Computer Engineering student in ESTU.
+#### I am İpek and I am senior Computer Engineering student in ESTU.
 
 - 🌱 I’m currently learning ...some Data Science
 - 💬 Ask me about ...anything 
